@@ -4,20 +4,20 @@
   "pub_date": "2024-01-15T12:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "test-signature",
-      "url": "https://github.com/yourusername/mcpops-app/releases/download/v0.1.1/mcp-ops_0.1.1_x64.app.tar.gz"
+      "signature": "",
+      "url": ""
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb1VlQ0piVWxaWTI1aWlwdDhGL2RUMkdyVXFIdUVGVCtnSVpHUTdYVmE1K3NrekhkTHBYOVpRWXBvVHJCdDlFK1h4QXdPaWhESllOQzVINUFsOVNjd0t1cGt2dGROM1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMTk0ODMzCWZpbGU6TUNQIE9wZXJhdGlvbnMuYXBwLnRhci5nego0SmFoMmRBVlVNSUNrMmtEQmxjRFNiTytIQTZUNVlMeFBEc1ZoaG1vVkI1bWRPdzFyYUpydEFsRE5ubUc3blY3ZnA4ZkFGbCswdTlXWUJDL25RS3REUT09Cg==",
-      "url": "https://github.com/mcp-ops/app-releases/releases/download/demo0.1/MCP.Operations.app.tar.gz"
+      "signature": "",
+      "url": ""
     },
     "linux-x86_64": {
-      "signature": "test-signature",
-      "url": "https://github.com/yourusername/mcpops-app/releases/download/v0.1.1/mcp-ops_0.1.1_x64.app.tar.gz"
+      "signature": "",
+      "url": ""
     },
     "windows-x86_64": {
-      "signature": "test-signature",
-      "url": "https://github.com/yourusername/mcpops-app/releases/download/v0.1.1/mcp-ops_0.1.1_x64.app.tar.gz"
+      "signature": "",
+      "url": ""
     }
   }
 }
