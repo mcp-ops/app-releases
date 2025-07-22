@@ -1,23 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "Improve Performance",
-  "pub_date": "",
+  "version": "0.1.1",
+  "notes": "Test update",
+  "pub_date": "2024-01-15T12:00:00Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "test-signature",
+      "url": "https://github.com/yourusername/mcpops-app/releases/download/v0.1.1/mcp-ops_0.1.1_x64.app.tar.gz"
     },
-    "macos": {
+    "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb1VlQ0piVWxaWTY4RjNOc3NweVNUQklOQms2QVNyS0pMeEZ3N3FnSUVpRFZ4bS96b2ozdWRmKzdDRU9rcCt3SURkczZOMTdtbkNuNDVEQ0RoVTlDQ2dhODdYU3BNeVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMDI5MDM0CWZpbGU6TUNQIE9wZXJhdGlvbnMuYXBwLnRhci5negpacnpwT3RVbG83NFArc0FxMXRtaVZMUEJZOTRGVFR4Szd2YjYycTExNWVoeG9BRE5yZzNqdU11bkhMS2o3ZVc0bGRBUTlhbCszcFZDdWxqaEdRRkNCQT09Cg==",
-      "url": "https://mcpops.dmg"
+      "url": "https://github.com/yourusername/mcpops-app/releases/download/v0.1.1/mcp-ops_0.1.1_aarch64.app.tar.gz"
     }
   }
 }
